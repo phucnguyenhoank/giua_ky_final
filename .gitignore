@@ -1,3 +1,4 @@
 data/
 bidmc/
 processed_data/
+*.csv
